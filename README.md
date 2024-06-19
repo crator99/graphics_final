@@ -39,22 +39,16 @@ top_left, top_right, bottom_right, bottom_left 순서로 점을 지정해준 뒤
 
 2. `images/carla2.jpg`
 
-원본, 라벨링, 객체 테두리 식별 이미지
+원본
 
-![test2.jpg](images/test2.jpg)![test2seeded.jpg](images/test2seeded.jpg)![test2cut.jpg](images/test2cut.jpg)
+![원본](https://github.com/crator99/graphics_final/blob/main/images/carla2.jpg)
 
-3. `test3.jpg`
+라벨링
 
-Original, seeded, and segmented image
+![라벨링](https://github.com/crator99/graphics_final/blob/main/images/carla2seeded.jpg)
 
-![test3.jpg](images/test3.jpg)![test3seeded.jpg](images/test3seeded.jpg)![test3cut.jpg](images/test3cut.jpg)
+객체 테두리 식별
 
-
-4. `baby.jpg`
-
-Original, seeded, and segmented image
-
-![baby.jpg](images/baby.jpg)![babyseeded.jpg](images/babyseeded.jpg)![babycut.jpg](images/babycut.jpg)
-
+![객체 테두리 식별](https://github.com/crator99/graphics_final/blob/main/images/carla2cut.jpg)
 
 
