@@ -26,10 +26,15 @@ top_left, top_right, bottom_right, bottom_left 순서로 점을 지정해준 뒤
 1. `images/carla1.jpg` 
 
 원본
+
 ![원본](https://github.com/crator99/graphics_final/blob/main/images/carla1.jpg)
+
 라벨링
+
 ![라벨링](https://github.com/crator99/graphics_final/blob/main/images/carla1seeded.jpg)
+
 객체 테두리 식별
+
 ![객체 테두리 식별](https://github.com/crator99/graphics_final/blob/main/images/carla1cut.jpg)
 
 2. `images/carla2.jpg`
