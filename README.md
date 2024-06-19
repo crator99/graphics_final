@@ -1,21 +1,21 @@
 # Graphics Final
 
-## Website
 
-For a detailed report, please visit https://julie-jiang.github.io/image-segmentation/. 
 
-## Usage
+## 실행 방법
 ``` 
-python imagesegmentation.py images/carla2.jpg  (jpg 파일 이름은 변경 가능)
+python imagesegmentation.py images/carla2.jpg  (다른 사진으로 원할 경우, jpg 파일 이름은 변경 가능)
 ```
 
-A new window will pop up showing your image. Use your cursor to mark object seeds, which would be shown in red. Once you're done, press `esc`. Then do the same to mark background seeds, which would be shown in green.
 
-## Dependencies
 
-- Python 2
-- OpenCV 3.3
-- NumPy
+## 실행 환경
+
+- Python 3.11
+- OpenCV 4.10
+- Numpy 1.23.5
+
+
 
 ## Examples
 
