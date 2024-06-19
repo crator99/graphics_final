@@ -1,4 +1,4 @@
-# Image Segmentation
+# Graphics Final
 
 ## Website
 
@@ -6,7 +6,7 @@ For a detailed report, please visit https://julie-jiang.github.io/image-segmenta
 
 ## Usage
 ``` 
-python imagesegmentation.py filename
+python imagesegmentation.py images/carla2.jpg  (jpg 파일 이름은 변경 가능)
 ```
 
 A new window will pop up showing your image. Use your cursor to mark object seeds, which would be shown in red. Once you're done, press `esc`. Then do the same to mark background seeds, which would be shown in green.
