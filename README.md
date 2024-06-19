@@ -27,7 +27,7 @@ top_left, top_right, bottom_right, bottom_left 순서로 점을 지정해준 뒤
 
 원본, 라벨링, 객체 테두리 식별 이미지
 
-![test1.jpg](images/test1.jpg) ![test1seeded.jpg](images/test1seeded.jpg) ![test1cut.jpg](images/test1cut.jpg)
+![images/test1.jpg](https://github.com/crator99/graphics_final/blob/main/images/carla1.jpg) ![test1seeded.jpg](images/test1seeded.jpg) ![test1cut.jpg](images/test1cut.jpg)
 
 2. `images/carla2.jpg`
 
